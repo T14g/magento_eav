@@ -1,2 +1,2 @@
 # magento_eav
-Creating product attribute using Data Patche
+Creating product attribute using Data Patches
